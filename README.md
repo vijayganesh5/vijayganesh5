@@ -9,7 +9,7 @@ In VFX, I worked on automation-heavy pipelines, large-scale systems, and deadlin
 
 ## 🎯 Current Focus
 
-- ☁️ AWS Cloud (EC2, S3, IAM, VPC, CloudWatch)
+- ☁️ AWS Cloud (EC2, S3, IAM, VPC, EKS, CloudWatch)
 - 🚢 Docker & Kubernetes fundamentals
 - 🔁 CI/CD with **GitHub Actions, Jenkins, AWS CodePipeline**
 - 🧱 Infrastructure as Code basics
@@ -114,4 +114,4 @@ I’m interested in:
 
 ---
 
-> *“Automation turns effort into reliability.”* ⚙️🚀
+*“ Automation turns effort into reliability ”* ⚙️🚀
