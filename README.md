@@ -3,7 +3,6 @@
 <h3 align="center">👨‍💻 DevOps Engineer | Cloud & Automation Enthusiast</h3>
  
 A **DevOps Engineer** transitioning from **9+ years in VFX production pipelines** into **Cloud, Automation, and Infrastructure Engineering**.
-
 In VFX, I worked on automation-heavy pipelines, large-scale systems, and deadline-critical environments - the same mindset I now apply to **DevOps, CI/CD, and cloud infrastructure**.
 
 ---
@@ -45,7 +44,7 @@ In VFX, I worked on automation-heavy pipelines, large-scale systems, and deadlin
 
 ---
 
-## 📌 Featured Projects (Real & Resume-Aligned)
+## 📌 Featured Projects
 
 ### 1️⃣ Brain Tasks App
 🔗 https://github.com/vijayganesh5/Brain-Tasks-App  
